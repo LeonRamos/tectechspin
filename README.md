@@ -7,11 +7,11 @@ Los proyectos de base tecnológica pueden convertirse en spin-offs exitosas al v
 
 ![](./Images/header_tsj.jpg)
 
-# Sistema de Gestión de Proyectos en PHP y MYSQL
+# Sistema de Gestión de Proyectos de Base Tecnológica
 <img src="Sistema%20de%20Gestión%20de%20Proyectos%20en%20PHP%20y%20MYSQL.png">
 
 <!-- wp:paragraph -->
-<p>Este Sistema de Gestión de Proyectos en PHP y MYSQL le permite al usuario administrador:</p>
+<p>Este Sistema de Gestión de Proyectos le permite al usuario administrador:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
