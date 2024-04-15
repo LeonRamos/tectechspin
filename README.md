@@ -28,7 +28,7 @@ Los proyectos de base tecnológica pueden convertirse en spin-offs exitosas al v
 
 # Importante
 
-La aplicación tiene un coste de 15 USD y para su implementación requieres la base de datos y es la que te proveo a cambio del importe.
+La aplicación puede presentar inconsistencias de disponibilidad, solo espera a que el servidor de la organizacion responda.
 
 # Enlace demo de la aplicación
 
